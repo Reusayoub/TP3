@@ -9,6 +9,9 @@
 on supprime chem
 ![image](https://github.com/Reusayoub/TP3/assets/118600985/757268c7-62a4-41dd-b063-1482e3c28f0d)
 la suprresion est bien faites !
+on recherche par nom ( Abra)
+![image](https://github.com/Reusayoub/TP3/assets/118600985/ca58bc0e-d81c-443a-b565-9ce90127a8ec)
+
 
 
 
